@@ -1,6 +1,6 @@
 # 🚀 .NET MAUI Todo API
 
-Bu API, [.NET MAUI ile Sıfırdan Mobil Uygulama Geliştirme](https://www.udemy.com/course/net-maui/) Udemy kursu için özel olarak hazırlanmıştır.
+Bu API, [.Net Maui | C# ile Mobil ve Masaüstü Uygulama Geliştirin](https://www.udemy.com/course/net-maui/) Udemy kursu için özel olarak hazırlanmıştır.
 
 ## 📱 Kurs Hakkında
 
