@@ -50,14 +50,3 @@ Bu API, kursumuzda aşağıdaki konuları öğrenirken kullanılacaktır:
 ## 🎓 Kursa Katılın
 
 Detaylı .NET MAUI eğitimi için [kursumuza katılın](https://www.udemy.com/course/net-maui/)!
-
-## 🤝 Katkıda Bulunma
-
-Bu proje, kurs için özel olarak hazırlanmıştır. Kurs süresince birlikte geliştireceğiz.
-
-## 📝 Lisans
-
-MIT
-
----
-⭐️ Bu API, [.NET MAUI ile Sıfırdan Mobil Uygulama Geliştirme](https://www.udemy.com/course/net-maui/) kursu için hazırlanmıştır.
